@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 180px;
+    height: auto;
+}
+p{
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    margin-left: 40px;
+    margin-top: 40px;
+    
+}
+table,th,td {
+    border: 1px solid black;
+    
+}
+table{
+    width: 50%;
+    margin-left: 40px;
+    margin-top: 40px;
+}
